@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650696754281",
+    "firebase_url": "https://birdtracker-87337.firebaseio.com",
+    "project_id": "birdtracker-87337",
+    "storage_bucket": "birdtracker-87337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650696754281:android:97ec803f68f12b7a11cef8",
+        "android_client_info": {
+          "package_name": "com.example.birdtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650696754281-13do5k4pm78pl16r9hsgclhkev2afqgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.birdtracker",
+            "certificate_hash": "95087430747d5872656cff68174e3bc90857b960"
+          }
+        },
+        {
+          "client_id": "650696754281-12523qsr08datksn5hhcd1dn2f6sftep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NT-CJAh42yNSCxqHu6qwcEb3EhLzWsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650696754281-12523qsr08datksn5hhcd1dn2f6sftep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
